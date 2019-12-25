@@ -1,0 +1,28 @@
+body {
+  background-color: #defcfc;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+hr {
+  border-color: lightgrey;
+  width: 50%;
+  opacity: 50%;
+}
+h1, h3 {
+  color: grey
+}
+
+table {
+  margin:0 auto 0 auto;
+}
+
+div {
+  margin: 5%;
+  margin-top: 0%
+}
+
+/************class & id css **************/
+#Niharika {
+  font-family: 'Raleway', sans-serif;
+  font-size: 100%;
+}
