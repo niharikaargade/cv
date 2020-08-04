@@ -1,0 +1,31 @@
+html, body {
+  margin:0px;
+  height:100%;
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border-color: lightgrey;
+  width: 50%;
+  opacity: 50%;
+}
+h1, h3 {
+  text-align: center;
+  color: grey
+}
+
+table {
+  margin:0 auto 0 auto;
+}
+
+/************class & id css **************/
+.description{
+  background-color: #e0ecff;
+  height: 100%;
+  text-align: center;
+}
+
+.trademark {
+  font-size: 10px;
+  text-align: right;
+}
