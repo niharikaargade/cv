@@ -1,15 +1,16 @@
 html, body {
+  background-color: #ebf2ff;
   margin:0px;
   height:100%;
-  font-family: 'Raleway', sans-serif;
 }
 
 hr {
   border-color: lightgrey;
-  width: 50%;
-  opacity: 50%;
+  width: 100%;
+  opacity: 70%;
 }
-h1, h3 {
+
+h1, h3, h5 {
   text-align: center;
   color: grey
 }
@@ -19,13 +20,19 @@ table {
 }
 
 /************class & id css **************/
-.description{
-  background-color: #e0ecff;
+.description, .technologyStack, .lastPage{
   height: 100%;
   text-align: center;
+  position: relative;
 }
 
-.trademark {
-  font-size: 10px;
-  text-align: right;
+.site{
+  height:100%;
+  background-color: #ebf2ff;
+}
+
+.contact{
+  position: absolute;
+  bottom: 10%;
+  left: 37%;
 }
